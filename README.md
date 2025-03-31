@@ -1,3 +1,8 @@
-# CIS310-group-assignment-2
+# CIS310-group-assignment-2 Documentation
 
-Register File Design- the write data was implemented by using a demultiplexer and having a 2-bit control "Select_Write" with an 4-bit input "Write_data", this demultiplexer had 4 different output pins allowing us to control what register we write to.
+Register File Design: the write data was implemented by using a demultiplexer and having a 2-bit control "Select_Write" with an 4-bit input "Write_data", this demultiplexer had 4 different output pins allowing us to control what register we write to.
+
+
+ALU Implementation: How you handled add, subtract, increment, decrement, and transfer operations.
+
+Testing: Show input/output waveforms or screenshots demonstrating each operation.
