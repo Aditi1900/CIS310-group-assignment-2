@@ -6,3 +6,10 @@ Register File Design: the write data was implemented by using a demultiplexer an
 ALU Implementation: For the ALU implementation, we used a 4-bit adder to handle addition and subtraction, utilizing bitwise complementing of B and conditional addition of 1 for subtraction operations. Increment and decrement operations were achieved by feeding A into the adder with fixed inputs (0001 for increment and 1111 for decrement). Transfer operations were handled using multiplexers to pass A directly to the output. The control signals ({S1, S0, Cin}) determined the selection of operations as per the provided table. 
 
 Testing: Show input/output waveforms or screenshots demonstrating each operation.
+
+
+
+Register File test:
+![image](https://github.com/user-attachments/assets/0664453a-5abb-4631-88ad-4ec70c31ca7f)
+Test shows that values are correctly written.
+
