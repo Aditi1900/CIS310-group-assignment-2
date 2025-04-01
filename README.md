@@ -51,7 +51,8 @@ Inputs:
 A = 1001 (9), B = 0010 (2)
 Control: S1 = 0, S0 = 1, Cin = 0
 
-<img width="875" alt="image" src="https://github.com/user-attachments/assets/ec6ab77d-8c8d-49da-9503-a631350b2624" />
+![image](https://github.com/user-attachments/assets/a5f901ff-bfc1-41b0-b12d-a6c9aa20b977)
+
 
 Expected Output:
 D = 0110 (6)
@@ -61,6 +62,8 @@ Inputs:
 A = 1100 (12)
 Control: S1 = 1, S0 = 0, Cin = 0
 
+![image](https://github.com/user-attachments/assets/aef35d51-ab9d-40a8-a29e-2bb62d26270f)
+
 Expected Output:
 D = 1100 (12)
 
@@ -68,6 +71,7 @@ D = 1100 (12)
 Inputs:
 A = 0111 (7)
 Control: S1 = 1, S0 = 0, Cin = 1
+![image](https://github.com/user-attachments/assets/97272b46-880a-4c76-b121-f3eb93514c82)
 
 Expected Output:
 D = 1000 (8)
@@ -76,6 +80,7 @@ D = 1000 (8)
 Inputs:
 A = 1001 (9)
 Control: S1 = 1, S0 = 1, Cin = 0
+![image](https://github.com/user-attachments/assets/91c33cba-f73c-4ff3-9443-ffb3d34bd1d1)
 
 Expected Output:
 D = 1000 (8)
