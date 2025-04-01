@@ -40,7 +40,8 @@ Inputs:
 A = 1010 (10), B = 0011 (3)
 Control: S1 = 0, S0 = 1, Cin = 1
 
-<img width="880" alt="image" src="https://github.com/user-attachments/assets/6beba08f-91ec-43b1-95c4-b61598f6dd58" />
+![image](https://github.com/user-attachments/assets/ce06d3af-17f6-4a45-a4df-16cb4329fcd9)
+
 
 Expected Output:
 D = 0111 (7)
