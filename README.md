@@ -18,6 +18,8 @@ Inputs:
 A = 0101 (5), B = 0011 (3)
 Control: S1 = 0, S0 = 0, Cin = 0
 
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/72a3fa7d-a060-41e6-b8f8-a2004aabbf4e" />
+
 Expected Output:
 D = 1000 (8)
 
@@ -25,6 +27,9 @@ D = 1000 (8)
 Inputs:
 A = 0110 (6), B = 0010 (2)
 Control: S1 = 0, S0 = 0, Cin = 1
+
+<img width="737" alt="image" src="https://github.com/user-attachments/assets/6dd7289c-f687-4311-98eb-6ecdf4fac380" />
+
 
 Expected Output:
 D = 1001 (9)
@@ -34,6 +39,8 @@ Inputs:
 A = 1010 (10), B = 0011 (3)
 Control: S1 = 0, S0 = 1, Cin = 1
 
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/6beba08f-91ec-43b1-95c4-b61598f6dd58" />
+
 Expected Output:
 D = 0111 (7)
 
@@ -41,6 +48,8 @@ D = 0111 (7)
 Inputs:
 A = 1001 (9), B = 0010 (2)
 Control: S1 = 0, S0 = 1, Cin = 0
+
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/ec6ab77d-8c8d-49da-9503-a631350b2624" />
 
 Expected Output:
 D = 0110 (6)
