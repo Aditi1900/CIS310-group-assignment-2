@@ -28,7 +28,8 @@ Inputs:
 A = 0110 (6), B = 0010 (2)
 Control: S1 = 0, S0 = 0, Cin = 1
 
-<img width="737" alt="image" src="https://github.com/user-attachments/assets/6dd7289c-f687-4311-98eb-6ecdf4fac380" />
+![image](https://github.com/user-attachments/assets/b43e8bfc-8801-4141-bc03-fc37e477aff3)
+
 
 
 Expected Output:
