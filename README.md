@@ -10,6 +10,7 @@ Testing: Show input/output waveforms or screenshots demonstrating each operation
 
 
 Register File test:
-![image](https://github.com/user-attachments/assets/0664453a-5abb-4631-88ad-4ec70c31ca7f)
+![image](https://github.com/user-attachments/assets/86143608-5cae-4c40-a33f-5a809af3ff32)
+
 Test shows that values are correctly written.
 
