@@ -18,7 +18,7 @@ Inputs:
 A = 0101 (5), B = 0011 (3)
 Control: S1 = 0, S0 = 0, Cin = 0
 
-<img width="709" alt="image" src="https://github.com/user-attachments/assets/72a3fa7d-a060-41e6-b8f8-a2004aabbf4e" />
+![image](https://github.com/user-attachments/assets/9fdca4e1-6792-487c-bff1-5cde1464dbb4)
 
 Expected Output:
 D = 1000 (8)
