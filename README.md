@@ -14,3 +14,59 @@ Register File test:
 
 Test shows that values are correctly written.
 
+ALU Test cases:
+1. Add (A + B)
+Inputs:
+A = 0101 (5), B = 0011 (3)
+Control: S1 = 0, S0 = 0, Cin = 0
+
+Expected Output:
+D = 1000 (8)
+
+2. Add with Carry (A + B + 1)
+Inputs:
+A = 0110 (6), B = 0010 (2)
+Control: S1 = 0, S0 = 0, Cin = 1
+
+Expected Output:
+D = 1001 (9)
+
+3. Subtract (A - B)
+Inputs:
+A = 1010 (10), B = 0011 (3)
+Control: S1 = 0, S0 = 1, Cin = 1
+
+Expected Output:
+D = 0111 (7)
+
+4. Subtract with Borrow (A - B - 1)
+Inputs:
+A = 1001 (9), B = 0010 (2)
+Control: S1 = 0, S0 = 1, Cin = 0
+
+Expected Output:
+D = 0110 (6)
+
+5. Transfer A
+Inputs:
+A = 1100 (12)
+Control: S1 = 1, S0 = 0, Cin = 0
+
+Expected Output:
+D = 1100 (12)
+
+6. Increment A
+Inputs:
+A = 0111 (7)
+Control: S1 = 1, S0 = 0, Cin = 1
+
+Expected Output:
+D = 1000 (8)
+
+7. Decrement A
+Inputs:
+A = 1001 (9)
+Control: S1 = 1, S0 = 1, Cin = 0
+
+Expected Output:
+D = 1000 (8)
